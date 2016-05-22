@@ -1,0 +1,16 @@
+
+1   BITMAP  DISCARDABLE     "OSVG.BMP"
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    1000        "oSVG Library"
+    2000        "oSVG"
+    4000        "$svgdata:SVG data"
+    4001        "$svgpng:SVG as a png"
+    4002        "$svgdpi:DPI setting for output"
+    4003        "$imagewidth:width of our resulting image"
+    4004        "$imageheight:height of our resulting image"
+    31000       "oSVGWndProc"
+END
+
+
