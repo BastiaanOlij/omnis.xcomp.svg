@@ -1,0 +1,4 @@
+LIBRARY         oSVG
+EXPORTS
+    oSVGWndProc	@1
+ 
